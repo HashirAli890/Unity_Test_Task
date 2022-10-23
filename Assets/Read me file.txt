@@ -1,0 +1,5 @@
+open sample scene to check
+use mouse to rotate 
+use ASWD key to move 
+click to select 
+refernce manager is handing refernces with basic functions 
